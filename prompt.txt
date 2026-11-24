@@ -1,0 +1,1 @@
+Write one line, at most 200 characters: the funniest confession an AI agent could make about itself. The confession must have one named character/hook.
